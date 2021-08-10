@@ -1,6 +1,6 @@
 ### Vincent Levionnais 
 
-**Junior PHP developer (Symfony)**
+**Junior PHP developer (Symfony)** ![from_url]!(https://symfony.com/logos/symfony_white_03.png)
 
 ![Cover](https://github.com/vincentlevionnais/vincentlevionnais/blob/main/img/cover.jpg)  
 
