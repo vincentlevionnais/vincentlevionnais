@@ -2,7 +2,7 @@
 
 **Junior PHP developer (Symfony)**
 
-![Cover](https://github.com/vincentlevionnais/vincentlevionnais/blob/master/img/cover.jpg)  
+![Cover](https://github.com/vincentlevionnais/vincentlevionnais/img/cover.jpg)  
 
 ✨Welcome on board✨
 
