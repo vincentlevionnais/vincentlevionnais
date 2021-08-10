@@ -13,8 +13,4 @@ I'm a back-end developer based in Rennes, France. I learned web development at O
 </div>
 
 <div align="center">
-  
-<img src="https://symfony.com/logos/symfony_white_03.png" width="80">
-<img src="https://www.php.net/images/logos/new-php-logo.png" width="100">
 
-</div>
