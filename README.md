@@ -10,6 +10,6 @@
 
 I'm a back-end developer based in Rennes, France. I learned web development at O'clock school, with an affinity with PHP. I chose the specialization SYMFONY for closure my training course.
   
-I prepare some projects in group and alone in view of exams in november 2021.
+I develop team and solo projects in view of exams in november 2021.
 
 </div>
