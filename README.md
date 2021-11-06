@@ -2,7 +2,7 @@
   
 <h2>Vincent Levionnais</h2> 
 
-<h3>Junior PHP developer</h3>
+<h3>PHP developer</h3>
 
 ![Cover](https://github.com/vincentlevionnais/vincentlevionnais/blob/main/img/cover.jpg)  
 
