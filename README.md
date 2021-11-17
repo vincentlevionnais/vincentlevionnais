@@ -8,6 +8,8 @@
 
 ✨Welcome on board✨
 
-I'm a back-end developer based in Rennes, France. I learned web development at O'clock school, with an affinity with PHP. I chose the specialization SYMFONY for closure my training course.
+I'm a web developer based in Rennes, France. I learned web development at O'clock school, with an affinity with PHP. I chose the specialization SYMFONY for closure my training course.
+  
+To learn more about me, visit my website : https://vincentlevionnais.fr  :rocket:
   
 </div>
